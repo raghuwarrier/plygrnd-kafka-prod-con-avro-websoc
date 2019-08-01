@@ -1,0 +1,39 @@
+{
+  "mutationsList": {
+    "mutations": [
+      {
+        "mutation": {
+          "mutationCode": "654",
+          "descriptionLines": [
+            "SEPA Overboeking                ",
+            "IBAN: NL36INGB0003445588        ",
+            "BIC: INGBNL2A                   ",
+            "Naam: BELASTINGDIENST           ",
+            "Omschrijving: TERUGGAAF  NR. 262",
+            "981567H8601      IB/PVV 2018    ",
+            "   (WARRIER     )               ",
+            "Kenmerk: GVSXX20190529091033834"
+          ],
+          "transactionDate": 1559685600000,
+          "valueDate": 1559685600000,
+          "bookDate": 1559685600000,
+          "balanceAfterMutation": 5415.08,
+          "debitCredit": "CREDIT",
+          "indicatorDigitalInvoice": false,
+          "counterAccountNumber": "P003445588",
+          "counterAccountType": "UNSTRUCTURED_BBAN",
+          "counterAccountName": "BELASTINGDIENST",
+          "amount": 2532.00,
+          "currencyIsoCode": "EUR",
+          "sourceInquiryNumber": "9156H1552237832S0AQ",
+          "accountNumber": "NL59ABNA0505606178",
+          "accountNumberType": "IBAN",
+          "transactionTimestamp": "20190605084846660",
+          "paymentStatus": "DEFAULT",
+          "statusTimestamp": -62135773200000
+        }
+      }
+    ],
+    "lastMutationKey": "2019-06-01-11.30.37.300000"
+  }
+}
